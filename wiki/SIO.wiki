@@ -9,6 +9,7 @@ The OWL2 ontology is available at http://semanticscience.org/ontology/sio.owl
 
 view at
  * bioportal: [http://bioportal.bioontology.org/ontologies/SIO sio@bioportal]
+ * ontobee: [http://www.ontobee.org/browser/index.php?o=SIO sio@ontobee]
 
 This project provides ontological support for 
  * [http://bio2rdf.org Bio2RDF] Linked Data for the Life Sciences
